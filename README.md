@@ -1,2 +1,2 @@
-This program is intended for sizing domestic cold and hot water pipes for commercial plumbing systems. It is based on Appendix A in the Uniform Plumbing Code.
+This program is intended for sizing domestic cold and hot water pipes for commercial plumbing systems. It is based on Appendix A in the 2021 Uniform Plumbing Code.
 The user enters information about available water pressure and allowable water velocities. The GUI presents a table with maximum GPM and Water Supply Fixture Units (WSFU) for various standard pipe sizes. The user has the option of selecting whether the cold water system will be using flushometer valves or flush tanks -- this impacts the calculated GPM / WSFU.
