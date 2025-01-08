@@ -1,0 +1,1 @@
+This program is intended for sizing domestic cold and hot water pipes for commercial plumbing systems. The user enters information about available water pressure and allowable water velocities. The GUI presents a table with maximum GPM and Water Supply Fixture Units (WSFU) for various standard pipe sizes.
